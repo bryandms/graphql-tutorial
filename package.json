@@ -1,0 +1,27 @@
+{
+  "name": "redes-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryandms/redes-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryandms/redes-graphql/issues"
+  },
+  "homepage": "https://github.com/bryandms/redes-graphql#readme",
+  "dependencies": {
+    "apollo-server-express": "^1.3.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.13.0",
+    "graphql-tools": "^2.21.0"
+  }
+}
